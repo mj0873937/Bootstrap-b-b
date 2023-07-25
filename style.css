@@ -1,0 +1,80 @@
+/* <!-- Author: Matthew Jared -->
+<!-- Class: CIS-130 -->
+<!-- date 07/24/2023 --> */
+
+
+body {
+    background-color: rgb(219, 209, 209);
+    margin: 0px;
+    padding: 0px;
+}
+
+nav {
+    background-color: antiquewhite;
+    border-bottom: 5px solid black;
+    font-size: 28px;
+    padding: 25px;
+    padding-bottom: 0px;
+}
+
+
+.header {
+    text-align: center;
+    /* color: white; */
+    background-color: blanchedalmond;
+    border-bottom: 3px solid black;
+    padding: 50px;
+    padding-bottom: 0px;
+}
+
+.card-group {
+    margin: 25px;
+}
+
+footer {
+    background-color: rgba(127, 255, 212, 0.412);
+    background-repeat: no-repeat;
+    font-size: 1.2rem;
+
+}
+
+h3{
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.title {
+    margin: 10px;
+    padding: 5px;
+
+}
+
+.myContainer {
+    display: flexbox;
+    width: 50%;
+
+}
+
+.contactform {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 20px;
+}
+
+
+.contactusfooter {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: .8rem;
+    border-top: 2px solid black;
+    padding: 7px;
+}
+
+
+
+
+
